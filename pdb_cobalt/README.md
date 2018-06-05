@@ -6,7 +6,7 @@ After applying crystal symmetry transformations, this script searches for atoms 
 Place the **script** in a folder alongside the **DSSP executable** and all the **protein structure files** you wish to check. Only .PDB format is currently supported, though PDBx/mmCIF support could probably be added easily using Biopython's MMCIFParser module. I recommend installing one of the conda distributions since they contain Python with all the necessary libraries.
 
 ## Quick modification:
-`maxdist = 4` ... change to modify the maxiumum search distance between around metal atoms in   
+`maxdist = 4` ... change to modify the maxiumum search distance between around metal atoms in Å  
 `if a_original.get_id() == 'CO':` ... change to modify type of atom to look for in metal contacts
 
 ## Output:
