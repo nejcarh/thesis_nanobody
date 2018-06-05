@@ -1,5 +1,5 @@
 ## Description:
-After applying crystal symmetry transformations, these scripts search for atoms within 4 Å of any cobalt ion. If at least two atoms come from chains created with different symmetry operations, the cobalt ion is presumed to lie between two chains on a crystal contact. All such structures are written in an output file along with the names of atoms and their parent residues and with predicted secondary structure (with the help of DSSP). Manual overview was required to check for the types of metal contacts found.
+After applying crystal symmetry transformations, this script searches for atoms within 4 Å of any cobalt ion. If at least two atoms come from chains created with different symmetry operations, the cobalt ion is presumed to lie between two chains on a crystal contact. All such structures are written in an output file along with the names of atoms and their parent residues and with predicted secondary structure (with the help of DSSP). Manual overview was required to check for the types of metal contacts found.
 
 
 ## Usage:
