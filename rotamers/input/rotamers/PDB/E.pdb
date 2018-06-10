@@ -1,0 +1,288 @@
+ATOM      1  N   GLU A   1      52.624  44.536  72.812  1.00  0.00           N
+ATOM      2  CA  GLU A   1      54.073  44.536  72.812  1.00  0.00           C
+ATOM      3  C   GLU A   1      54.596  45.966  72.812  1.00  0.00           C
+ATOM      4  O   GLU A   1      55.489  46.233  73.613  1.00  0.00           O
+ATOM      5  OXT GLU A   1      54.087  46.746  72.011  1.00  0.00           O
+ATOM      6  CB AGLU A   1      54.626  43.835  71.578  0.19  0.00           C
+ATOM      7  CB BGLU A   1      54.626  43.835  71.578  0.12  0.00           C
+ATOM      8  CB CGLU A   1      54.626  43.835  71.578  0.09  0.00           C
+ATOM      9  CB DGLU A   1      54.626  43.835  71.578  0.08  0.00           C
+ATOM     10  CB EGLU A   1      54.626  43.835  71.578  0.08  0.00           C
+ATOM     11  CB FGLU A   1      54.626  43.835  71.578  0.07  0.00           C
+ATOM     12  CB GGLU A   1      54.626  43.835  71.578  0.06  0.00           C
+ATOM     13  CB HGLU A   1      54.626  43.835  71.578  0.06  0.00           C
+ATOM     14  CB IGLU A   1      54.626  43.835  71.578  0.04  0.00           C
+ATOM     15  CB JGLU A   1      54.626  43.835  71.578  0.04  0.00           C
+ATOM     16  CB KGLU A   1      54.626  43.835  71.578  0.03  0.00           C
+ATOM     17  CB LGLU A   1      54.626  43.835  71.578  0.03  0.00           C
+ATOM     18  CB MGLU A   1      54.626  43.835  71.578  0.02  0.00           C
+ATOM     19  CB NGLU A   1      54.626  43.835  71.578  0.02  0.00           C
+ATOM     20  CB OGLU A   1      54.626  43.835  71.578  0.01  0.00           C
+ATOM     21  CB PGLU A   1      54.626  43.835  71.578  0.01  0.00           C
+ATOM     22  CB QGLU A   1      54.626  43.835  71.578  0.01  0.00           C
+ATOM     23  CB RGLU A   1      54.626  43.835  71.578  0.01  0.00           C
+ATOM     24  CB SGLU A   1      54.626  43.835  71.578  0.01  0.00           C
+ATOM     25  CB TGLU A   1      54.626  43.835  71.578  0.01  0.00           C
+ATOM     26  CB UGLU A   1      54.626  43.835  71.578  0.01  0.00           C
+ATOM     27  CB VGLU A   1      54.626  43.835  71.578  0.00  0.00           C
+ATOM     28  CB WGLU A   1      54.626  43.835  71.578  0.00  0.00           C
+ATOM     29  CB XGLU A   1      54.626  43.835  71.578  0.00  0.00           C
+ATOM     30  CB YGLU A   1      54.626  43.835  71.578  0.00  0.00           C
+ATOM     31  CB ZGLU A   1      54.626  43.835  71.578  0.00  0.00           C
+ATOM     32  CB aGLU A   1      54.626  43.835  71.578  0.00  0.00           C
+ATOM     33  CG AGLU A   1      54.328  42.357  71.663  0.19  0.00           C
+ATOM     34  CG BGLU A   1      56.134  43.823  71.640  0.12  0.00           C
+ATOM     35  CG CGLU A   1      54.276  42.367  71.634  0.09  0.00           C
+ATOM     36  CG DGLU A   1      54.328  42.357  71.663  0.08  0.00           C
+ATOM     37  CG EGLU A   1      54.341  42.355  71.670  0.08  0.00           C
+ATOM     38  CG FGLU A   1      54.253  42.373  71.621  0.07  0.00           C
+ATOM     39  CG GGLU A   1      56.134  43.830  71.636  0.06  0.00           C
+ATOM     40  CG HGLU A   1      56.132  43.777  71.665  0.06  0.00           C
+ATOM     41  CG IGLU A   1      56.135  43.847  71.626  0.04  0.00           C
+ATOM     42  CG JGLU A   1      54.295  42.363  71.645  0.04  0.00           C
+ATOM     43  CG KGLU A   1      56.127  43.725  71.692  0.03  0.00           C
+ATOM     44  CG LGLU A   1      54.217  44.598  70.341  0.03  0.00           C
+ATOM     45  CG MGLU A   1      54.297  42.363  71.646  0.02  0.00           C
+ATOM     46  CG NGLU A   1      54.232  44.608  70.342  0.02  0.00           C
+ATOM     47  CG OGLU A   1      54.209  44.593  70.341  0.01  0.00           C
+ATOM     48  CG PGLU A   1      54.251  42.373  71.620  0.01  0.00           C
+ATOM     49  CG QGLU A   1      54.295  44.647  70.349  0.01  0.00           C
+ATOM     50  CG RGLU A   1      56.101  43.575  71.766  0.01  0.00           C
+ATOM     51  CG SGLU A   1      54.308  42.361  71.652  0.01  0.00           C
+ATOM     52  CG TGLU A   1      56.115  43.641  71.734  0.01  0.00           C
+ATOM     53  CG UGLU A   1      56.130  43.756  71.676  0.01  0.00           C
+ATOM     54  CG VGLU A   1      54.227  44.605  70.342  0.00  0.00           C
+ATOM     55  CG WGLU A   1      54.096  44.511  70.336  0.00  0.00           C
+ATOM     56  CG XGLU A   1      54.018  44.446  70.338  0.00  0.00           C
+ATOM     57  CG YGLU A   1      54.014  44.443  70.339  0.00  0.00           C
+ATOM     58  CG ZGLU A   1      56.028  43.352  71.860  0.00  0.00           C
+ATOM     59  CG aGLU A   1      53.951  44.384  70.344  0.00  0.00           C
+ATOM     60  CD AGLU A   1      54.833  41.663  70.400  0.19  0.00           C
+ATOM     61  CD BGLU A   1      56.687  43.075  70.429  0.12  0.00           C
+ATOM     62  CD CGLU A   1      54.869  41.657  70.420  0.09  0.00           C
+ATOM     63  CD DGLU A   1      54.997  41.773  72.905  0.08  0.00           C
+ATOM     64  CD EGLU A   1      54.879  41.655  70.424  0.08  0.00           C
+ATOM     65  CD FGLU A   1      55.062  41.673  72.711  0.07  0.00           C
+ATOM     66  CD GGLU A   1      56.686  43.037  70.453  0.06  0.00           C
+ATOM     67  CD HGLU A   1      56.685  43.057  70.437  0.06  0.00           C
+ATOM     68  CD IGLU A   1      56.614  42.957  72.770  0.04  0.00           C
+ATOM     69  CD JGLU A   1      52.868  42.139  71.151  0.04  0.00           C
+ATOM     70  CD KGLU A   1      56.484  42.874  72.910  0.03  0.00           C
+ATOM     71  CD LGLU A   1      54.716  43.861  69.101  0.03  0.00           C
+ATOM     72  CD MGLU A   1      52.800  42.164  71.422  0.02  0.00           C
+ATOM     73  CD NGLU A   1      54.713  43.861  69.100  0.02  0.00           C
+ATOM     74  CD OGLU A   1      54.729  43.869  69.101  0.01  0.00           C
+ATOM     75  CD PGLU A   1      55.190  41.634  72.570  0.01  0.00           C
+ATOM     76  CD QGLU A   1      52.862  44.350  69.913  0.01  0.00           C
+ATOM     77  CD RGLU A   1      56.885  44.852  71.470  0.01  0.00           C
+ATOM     78  CD SGLU A   1      52.970  42.093  70.967  0.01  0.00           C
+ATOM     79  CD TGLU A   1      56.845  44.892  71.250  0.01  0.00           C
+ATOM     80  CD UGLU A   1      56.517  42.727  72.736  0.01  0.00           C
+ATOM     81  CD VGLU A   1      52.746  44.372  70.052  0.00  0.00           C
+ATOM     82  CD WGLU A   1      52.831  43.796  69.867  0.00  0.00           C
+ATOM     83  CD XGLU A   1      54.868  45.632  69.886  0.00  0.00           C
+ATOM     84  CD YGLU A   1      54.784  45.706  69.958  0.00  0.00           C
+ATOM     85  CD ZGLU A   1      56.995  44.532  71.801  0.00  0.00           C
+ATOM     86  CD aGLU A   1      54.573  45.730  69.980  0.00  0.00           C
+ATOM     87  OE1AGLU A   1      55.351  42.390  69.511  0.19  0.00           O
+ATOM     88  OE1BGLU A   1      55.851  42.605  69.612  0.12  0.00           O
+ATOM     89  OE1CGLU A   1      54.573  42.114  69.283  0.09  0.00           O
+ATOM     90  OE1DGLU A   1      56.228  41.996  73.054  0.08  0.00           O
+ATOM     91  OE1EGLU A   1      56.101  41.810  70.160  0.08  0.00           O
+ATOM     92  OE1FGLU A   1      56.000  42.326  73.241  0.07  0.00           O
+ATOM     93  OE1GGLU A   1      56.353  43.417  69.299  0.06  0.00           O
+ATOM     94  OE1HGLU A   1      56.274  41.886  70.223  0.06  0.00           O
+ATOM     95  OE1IGLU A   1      55.752  42.236  73.340  0.04  0.00           O
+ATOM     96  OE1JGLU A   1      52.232  43.150  70.750  0.04  0.00           O
+ATOM     97  OE1KGLU A   1      55.934  41.745  73.004  0.03  0.00           O
+ATOM     98  OE1LGLU A   1      55.327  42.774  69.283  0.03  0.00           O
+ATOM     99  OE1MGLU A   1      52.296  42.695  70.396  0.02  0.00           O
+ATOM    100  OE1NGLU A   1      55.949  43.637  69.006  0.02  0.00           O
+ATOM    101  OE1OGLU A   1      54.358  42.677  68.932  0.01  0.00           O
+ATOM    102  OE1PGLU A   1      55.150  41.958  73.787  0.01  0.00           O
+ATOM    103  OE1QGLU A   1      52.193  43.561  70.633  0.01  0.00           O
+ATOM    104  OE1RGLU A   1      56.622  45.453  70.395  0.01  0.00           O
+ATOM    105  OE1SGLU A   1      51.978  42.764  71.358  0.01  0.00           O
+ATOM    106  OE1TGLU A   1      56.181  45.718  70.568  0.01  0.00           O
+ATOM    107  OE1UGLU A   1      56.199  42.981  73.929  0.01  0.00           O
+ATOM    108  OE1VGLU A   1      52.348  43.177  70.012  0.00  0.00           O
+ATOM    109  OE1WGLU A   1      51.927  43.605  70.723  0.00  0.00           O
+ATOM    110  OE1XGLU A   1      55.951  45.830  70.498  0.00  0.00           O
+ATOM    111  OE1YGLU A   1      56.040  45.621  69.908  0.00  0.00           O
+ATOM    112  OE1ZGLU A   1      56.837  45.448  72.652  0.00  0.00           O
+ATOM    113  OE1aGLU A   1      54.477  46.657  70.828  0.00  0.00           O
+ATOM    114  OE2AGLU A   1      54.697  40.412  70.337  0.19  0.00           O
+ATOM    115  OE2BGLU A   1      57.940  42.981  70.333  0.12  0.00           O
+ATOM    116  OE2CGLU A   1      55.611  40.663  70.639  0.09  0.00           O
+ATOM    117  OE2DGLU A   1      54.271  41.110  73.692  0.08  0.00           O
+ATOM    118  OE2EGLU A   1      54.064  40.972  69.750  0.08  0.00           O
+ATOM    119  OE2FGLU A   1      54.734  40.492  73.003  0.07  0.00           O
+ATOM    120  OE2GGLU A   1      57.436  42.059  70.715  0.06  0.00           O
+ATOM    121  OE2HGLU A   1      57.513  43.686  69.725  0.06  0.00           O
+ATOM    122  OE2IGLU A   1      57.839  43.006  73.064  0.04  0.00           O
+ATOM    123  OE2JGLU A   1      52.427  40.959  71.180  0.04  0.00           O
+ATOM    124  OE2KGLU A   1      57.303  43.363  73.733  0.03  0.00           O
+ATOM    125  OE2LGLU A   1      54.482  44.392  67.982  0.03  0.00           O
+ATOM    126  OE2MGLU A   1      52.175  41.483  72.278  0.02  0.00           O
+ATOM    127  OE2NGLU A   1      53.840  43.522  68.258  0.02  0.00           O
+ATOM    128  OE2OGLU A   1      55.494  44.514  68.335  0.01  0.00           O
+ATOM    129  OE2PGLU A   1      55.938  40.751  72.070  0.01  0.00           O
+ATOM    130  OE2QGLU A   1      52.449  44.915  68.865  0.01  0.00           O
+ATOM    131  OE2RGLU A   1      57.739  45.214  72.323  0.01  0.00           O
+ATOM    132  OE2SGLU A   1      52.953  41.220  70.058  0.01  0.00           O
+ATOM    133  OE2TGLU A   1      58.058  45.010  71.567  0.01  0.00           O
+ATOM    134  OE2UGLU A   1      57.128  41.697  72.344  0.01  0.00           O
+ATOM    135  OE2VGLU A   1      52.027  45.391  69.873  0.00  0.00           O
+ATOM    136  OE2WGLU A   1      52.781  43.448  68.657  0.00  0.00           O
+ATOM    137  OE2XGLU A   1      54.425  46.327  68.934  0.00  0.00           O
+ATOM    138  OE2YGLU A   1      54.108  46.743  69.721  0.00  0.00           O
+ATOM    139  OE2ZGLU A   1      57.882  44.507  70.907  0.00  0.00           O
+ATOM    140  OE2aGLU A   1      55.137  45.819  68.857  0.00  0.00           O
+CONECT    3    2    4    5
+CONECT    2    1    3   14    9
+CONECT    2   12    8    6    7
+CONECT    2   10   11   13   27
+CONECT    2   17   19   23   20
+CONECT    2   15   21   22   18
+CONECT    2   16   24   25   26
+CONECT    2   31   32   29   28
+CONECT    2   30
+CONECT    6    2   33
+CONECT    7    2   34
+CONECT    8    2   35
+CONECT    9    2   36
+CONECT   10    2   37
+CONECT   11    2   38
+CONECT   12    2   39
+CONECT   13    2   40
+CONECT   14    2   41
+CONECT   15    2   42
+CONECT   16    2   43
+CONECT   17    2   44
+CONECT   18    2   45
+CONECT   19    2   46
+CONECT   20    2   47
+CONECT   21    2   48
+CONECT   22    2   49
+CONECT   23    2   50
+CONECT   24    2   51
+CONECT   25    2   52
+CONECT   26    2   53
+CONECT   27    2   54
+CONECT   28    2   55
+CONECT   29    2   56
+CONECT   30    2   57
+CONECT   31    2   58
+CONECT   32    2   59
+CONECT   60   33  114   87
+CONECT   61   34  115   88
+CONECT   62   89   35  116
+CONECT   63  117   36   90
+CONECT   64   91   37  118
+CONECT   65   38   92  119
+CONECT   66   39   93  120
+CONECT   67   40   94  121
+CONECT   68   41  122   95
+CONECT   69   42  123   96
+CONECT   70  124   43   97
+CONECT   71  125   44   98
+CONECT   72   45  126   99
+CONECT   73  127   46  100
+CONECT   74   47  128  101
+CONECT   75   48  129  102
+CONECT   76  130   49  103
+CONECT   77  131  104   50
+CONECT   78  132   51  105
+CONECT   79  106  133   52
+CONECT   80   53  134  107
+CONECT   81   54  108  135
+CONECT   82   55  109  136
+CONECT   83   56  110  137
+CONECT   84   57  111  138
+CONECT   85   58  112  139
+CONECT   86  140  113   59
+CONECT   33   60    6
+CONECT   34    7   61
+CONECT   35    8   62
+CONECT   36    9   63
+CONECT   37   10   64
+CONECT   38   65   11
+CONECT   39   12   66
+CONECT   40   67   13
+CONECT   41   14   68
+CONECT   42   69   15
+CONECT   43   70   16
+CONECT   44   17   71
+CONECT   45   72   18
+CONECT   46   19   73
+CONECT   47   74   20
+CONECT   48   21   75
+CONECT   49   76   22
+CONECT   50   23   77
+CONECT   51   78   24
+CONECT   52   25   79
+CONECT   53   26   80
+CONECT   54   27   81
+CONECT   55   28   82
+CONECT   56   29   83
+CONECT   57   84   30
+CONECT   58   31   85
+CONECT   59   32   86
+CONECT    1    2
+CONECT    4    3
+CONECT   87   60
+CONECT   88   61
+CONECT   89   62
+CONECT   90   63
+CONECT   91   64
+CONECT   92   65
+CONECT   93   66
+CONECT   94   67
+CONECT   95   68
+CONECT   96   69
+CONECT   97   70
+CONECT   98   71
+CONECT   99   72
+CONECT  100   73
+CONECT  101   74
+CONECT  102   75
+CONECT  103   76
+CONECT  104   77
+CONECT  105   78
+CONECT  106   79
+CONECT  107   80
+CONECT  108   81
+CONECT  109   82
+CONECT  110   83
+CONECT  111   84
+CONECT  112   85
+CONECT  113   86
+CONECT  114   60
+CONECT  115   61
+CONECT  116   62
+CONECT  117   63
+CONECT  118   64
+CONECT  119   65
+CONECT  120   66
+CONECT  121   67
+CONECT  122   68
+CONECT  123   69
+CONECT  124   70
+CONECT  125   71
+CONECT  126   72
+CONECT  127   73
+CONECT  128   74
+CONECT  129   75
+CONECT  130   76
+CONECT  131   77
+CONECT  132   78
+CONECT  133   79
+CONECT  134   80
+CONECT  135   81
+CONECT  136   82
+CONECT  137   83
+CONECT  138   84
+CONECT  139   85
+CONECT  140   86
+CONECT    5    3
+END

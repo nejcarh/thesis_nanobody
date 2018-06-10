@@ -1,0 +1,380 @@
+ATOM      1  N   GLN A   1      53.623  45.540  73.409  1.00  0.00           N
+ATOM      2  CA  GLN A   1      55.072  45.540  73.409  1.00  0.00           C
+ATOM      3  C   GLN A   1      55.595  46.970  73.409  1.00  0.00           C
+ATOM      4  O   GLN A   1      56.488  47.237  74.210  1.00  0.00           O
+ATOM      5  OXT GLN A   1      55.085  47.750  72.608  1.00  0.00           O
+ATOM      6  CB AGLN A   1      55.624  44.839  72.175  0.19  0.00           C
+ATOM      7  CB BGLN A   1      55.624  44.839  72.175  0.15  0.00           C
+ATOM      8  CB CGLN A   1      55.624  44.839  72.175  0.09  0.00           C
+ATOM      9  CB DGLN A   1      55.624  44.839  72.175  0.09  0.00           C
+ATOM     10  CB EGLN A   1      55.624  44.839  72.175  0.08  0.00           C
+ATOM     11  CB FGLN A   1      55.624  44.839  72.175  0.08  0.00           C
+ATOM     12  CB GGLN A   1      55.624  44.839  72.175  0.04  0.00           C
+ATOM     13  CB HGLN A   1      55.624  44.839  72.175  0.04  0.00           C
+ATOM     14  CB IGLN A   1      55.624  44.839  72.175  0.03  0.00           C
+ATOM     15  CB JGLN A   1      55.624  44.839  72.175  0.02  0.00           C
+ATOM     16  CB KGLN A   1      55.624  44.839  72.175  0.02  0.00           C
+ATOM     17  CB LGLN A   1      55.624  44.839  72.175  0.02  0.00           C
+ATOM     18  CB MGLN A   1      55.624  44.839  72.175  0.02  0.00           C
+ATOM     19  CB NGLN A   1      55.624  44.839  72.175  0.02  0.00           C
+ATOM     20  CB OGLN A   1      55.624  44.839  72.175  0.01  0.00           C
+ATOM     21  CB PGLN A   1      55.624  44.839  72.175  0.01  0.00           C
+ATOM     22  CB QGLN A   1      55.624  44.839  72.175  0.01  0.00           C
+ATOM     23  CB RGLN A   1      55.624  44.839  72.175  0.01  0.00           C
+ATOM     24  CB SGLN A   1      55.624  44.839  72.175  0.01  0.00           C
+ATOM     25  CB TGLN A   1      55.624  44.839  72.175  0.01  0.00           C
+ATOM     26  CB UGLN A   1      55.624  44.839  72.175  0.01  0.00           C
+ATOM     27  CB VGLN A   1      55.624  44.839  72.175  0.01  0.00           C
+ATOM     28  CB WGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     29  CB XGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     30  CB YGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     31  CB ZGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     32  CB aGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     33  CB bGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     34  CB cGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     35  CB dGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     36  CB eGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     37  CB fGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     38  CB gGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     39  CB hGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     40  CB iGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     41  CB jGLN A   1      55.624  44.839  72.175  0.00  0.00           C
+ATOM     42  CG AGLN A   1      55.319  43.348  72.258  0.19  0.00           C
+ATOM     43  CG BGLN A   1      55.231  43.366  72.208  0.15  0.00           C
+ATOM     44  CG CGLN A   1      57.147  44.821  72.241  0.09  0.00           C
+ATOM     45  CG DGLN A   1      55.303  43.350  72.250  0.09  0.00           C
+ATOM     46  CG EGLN A   1      55.282  43.355  72.238  0.08  0.00           C
+ATOM     47  CG FGLN A   1      57.146  44.801  72.252  0.08  0.00           C
+ATOM     48  CG GGLN A   1      57.147  44.812  72.246  0.04  0.00           C
+ATOM     49  CG HGLN A   1      57.148  44.843  72.229  0.04  0.00           C
+ATOM     50  CG IGLN A   1      55.222  45.617  70.926  0.03  0.00           C
+ATOM     51  CG JGLN A   1      55.340  43.344  72.270  0.02  0.00           C
+ATOM     52  CG KGLN A   1      55.308  43.349  72.252  0.02  0.00           C
+ATOM     53  CG LGLN A   1      55.338  43.344  72.269  0.02  0.00           C
+ATOM     54  CG MGLN A   1      55.306  43.350  72.251  0.02  0.00           C
+ATOM     55  CG NGLN A   1      55.228  45.621  70.927  0.02  0.00           C
+ATOM     56  CG OGLN A   1      55.199  45.602  70.925  0.01  0.00           C
+ATOM     57  CG PGLN A   1      57.146  44.785  72.260  0.01  0.00           C
+ATOM     58  CG QGLN A   1      57.143  44.755  72.277  0.01  0.00           C
+ATOM     59  CG RGLN A   1      57.130  44.652  72.328  0.01  0.00           C
+ATOM     60  CG SGLN A   1      55.256  43.360  72.223  0.01  0.00           C
+ATOM     61  CG TGLN A   1      57.146  44.788  72.259  0.01  0.00           C
+ATOM     62  CG UGLN A   1      55.216  45.613  70.926  0.01  0.00           C
+ATOM     63  CG VGLN A   1      55.247  45.633  70.929  0.01  0.00           C
+ATOM     64  CG WGLN A   1      55.168  45.581  70.923  0.00  0.00           C
+ATOM     65  CG XGLN A   1      55.391  43.337  72.297  0.00  0.00           C
+ATOM     66  CG YGLN A   1      55.147  45.566  70.922  0.00  0.00           C
+ATOM     67  CG ZGLN A   1      55.288  43.353  72.241  0.00  0.00           C
+ATOM     68  CG aGLN A   1      57.134  44.679  72.315  0.00  0.00           C
+ATOM     69  CG bGLN A   1      57.148  44.845  72.227  0.00  0.00           C
+ATOM     70  CG cGLN A   1      55.070  45.507  70.921  0.00  0.00           C
+ATOM     71  CG dGLN A   1      57.113  44.570  72.368  0.00  0.00           C
+ATOM     72  CG eGLN A   1      55.418  43.334  72.310  0.00  0.00           C
+ATOM     73  CG fGLN A   1      55.218  45.614  70.926  0.00  0.00           C
+ATOM     74  CG gGLN A   1      57.110  44.559  72.373  0.00  0.00           C
+ATOM     75  CG hGLN A   1      55.277  45.651  70.932  0.00  0.00           C
+ATOM     76  CG iGLN A   1      55.201  45.603  70.925  0.00  0.00           C
+ATOM     77  CG jGLN A   1      55.201  45.603  70.925  0.00  0.00           C
+ATOM     78  CD AGLN A   1      55.804  42.619  71.013  0.19  0.00           C
+ATOM     79  CD BGLN A   1      55.850  42.660  73.406  0.15  0.00           C
+ATOM     80  CD CGLN A   1      57.738  44.069  71.056  0.09  0.00           C
+ATOM     81  CD DGLN A   1      55.847  42.611  71.035  0.09  0.00           C
+ATOM     82  CD EGLN A   1      55.841  42.612  71.033  0.08  0.00           C
+ATOM     83  CD FGLN A   1      57.615  43.931  73.410  0.08  0.00           C
+ATOM     84  CD GGLN A   1      57.740  44.131  71.020  0.04  0.00           C
+ATOM     85  CD HGLN A   1      57.739  44.067  71.060  0.04  0.00           C
+ATOM     86  CD IGLN A   1      55.704  44.915  69.665  0.03  0.00           C
+ATOM     87  CD JGLN A   1      56.017  42.734  73.490  0.02  0.00           C
+ATOM     88  CD KGLN A   1      56.236  42.642  73.230  0.02  0.00           C
+ATOM     89  CD LGLN A   1      53.872  43.048  71.988  0.02  0.00           C
+ATOM     90  CD MGLN A   1      55.821  42.616  71.021  0.02  0.00           C
+ATOM     91  CD NGLN A   1      55.702  44.914  69.665  0.02  0.00           C
+ATOM     92  CD OGLN A   1      55.683  44.900  69.664  0.01  0.00           C
+ATOM     93  CD PGLN A   1      57.601  43.751  73.279  0.01  0.00           C
+ATOM     94  CD QGLN A   1      57.567  43.960  73.503  0.01  0.00           C
+ATOM     95  CD RGLN A   1      57.880  45.925  71.963  0.01  0.00           C
+ATOM     96  CD SGLN A   1      53.882  43.117  71.615  0.01  0.00           C
+ATOM     97  CD TGLN A   1      57.736  44.063  71.058  0.01  0.00           C
+ATOM     98  CD UGLN A   1      53.878  45.123  70.391  0.01  0.00           C
+ATOM     99  CD VGLN A   1      53.784  45.423  70.567  0.01  0.00           C
+ATOM    100  CD WGLN A   1      56.095  46.745  70.607  0.00  0.00           C
+ATOM    101  CD XGLN A   1      53.925  42.991  72.083  0.00  0.00           C
+ATOM    102  CD YGLN A   1      55.575  44.825  69.663  0.00  0.00           C
+ATOM    103  CD ZGLN A   1      56.285  42.605  73.114  0.00  0.00           C
+ATOM    104  CD aGLN A   1      57.850  45.999  72.067  0.00  0.00           C
+ATOM    105  CD bGLN A   1      57.662  43.913  73.316  0.00  0.00           C
+ATOM    106  CD cGLN A   1      53.654  45.031  70.627  0.00  0.00           C
+ATOM    107  CD dGLN A   1      57.942  45.792  72.001  0.00  0.00           C
+ATOM    108  CD eGLN A   1      54.018  42.931  71.868  0.00  0.00           C
+ATOM    109  CD fGLN A   1      56.221  46.716  70.614  0.00  0.00           C
+ATOM    110  CD gGLN A   1      57.938  45.817  72.156  0.00  0.00           C
+ATOM    111  CD hGLN A   1      56.302  46.750  70.691  0.00  0.00           C
+ATOM    112  CD iGLN A   1      56.009  46.883  70.765  0.00  0.00           C
+ATOM    113  CD jGLN A   1      53.789  45.223  70.502  0.00  0.00           C
+ATOM    114  OE1AGLN A   1      56.342  43.238  70.098  0.19  0.00           O
+ATOM    115  OE1BGLN A   1      57.037  42.824  73.681  0.15  0.00           O
+ATOM    116  OE1CGLN A   1      57.005  43.590  70.194  0.09  0.00           O
+ATOM    117  OE1DGLN A   1      55.270  42.682  69.952  0.09  0.00           O
+ATOM    118  OE1EGLN A   1      57.042  42.359  70.958  0.08  0.00           O
+ATOM    119  OE1FGLN A   1      57.097  42.836  73.617  0.08  0.00           O
+ATOM    120  OE1GGLN A   1      57.766  44.710  69.937  0.04  0.00           O
+ATOM    121  OE1HGLN A   1      57.753  42.838  71.070  0.04  0.00           O
+ATOM    122  OE1IGLN A   1      56.394  43.901  69.740  0.03  0.00           O
+ATOM    123  OE1JGLN A   1      55.350  42.185  74.363  0.02  0.00           O
+ATOM    124  OE1KGLN A   1      56.482  43.139  74.326  0.02  0.00           O
+ATOM    125  OE1LGLN A   1      53.260  43.683  71.132  0.02  0.00           O
+ATOM    126  OE1MGLN A   1      55.623  41.411  70.886  0.02  0.00           O
+ATOM    127  OE1NGLN A   1      55.074  43.960  69.212  0.02  0.00           O
+ATOM    128  OE1OGLN A   1      56.849  45.017  69.293  0.01  0.00           O
+ATOM    129  OE1PGLN A   1      56.977  43.588  74.325  0.01  0.00           O
+ATOM    130  OE1QGLN A   1      58.320  44.455  74.338  0.01  0.00           O
+ATOM    131  OE1RGLN A   1      57.469  46.656  71.064  0.01  0.00           O
+ATOM    132  OE1SGLN A   1      52.983  43.944  71.755  0.01  0.00           O
+ATOM    133  OE1TGLN A   1      58.951  43.908  70.958  0.01  0.00           O
+ATOM    134  OE1UGLN A   1      52.975  44.806  71.163  0.01  0.00           O
+ATOM    135  OE1VGLN A   1      53.243  44.337  70.761  0.01  0.00           O
+ATOM    136  OE1WGLN A   1      57.309  46.638  70.770  0.00  0.00           O
+ATOM    137  OE1XGLN A   1      53.299  42.371  72.940  0.00  0.00           O
+ATOM    138  OE1YGLN A   1      55.283  45.263  68.552  0.00  0.00           O
+ATOM    139  OE1ZGLN A   1      57.068  41.799  72.617  0.00  0.00           O
+ATOM    140  OE1aGLN A   1      58.625  46.456  72.905  0.00  0.00           O
+ATOM    141  OE1bGLN A   1      58.223  42.860  73.021  0.00  0.00           O
+ATOM    142  OE1cGLN A   1      52.734  45.839  70.520  0.00  0.00           O
+ATOM    143  OE1dGLN A   1      57.621  46.908  72.404  0.00  0.00           O
+ATOM    144  OE1eGLN A   1      53.852  42.290  70.833  0.00  0.00           O
+ATOM    145  OE1fGLN A   1      56.809  47.299  71.522  0.00  0.00           O
+ATOM    146  OE1gGLN A   1      58.694  45.908  71.191  0.00  0.00           O
+ATOM    147  OE1hGLN A   1      56.988  46.751  69.672  0.00  0.00           O
+ATOM    148  OE1iGLN A   1      55.444  47.970  70.673  0.00  0.00           O
+ATOM    149  OE1jGLN A   1      53.597  44.597  69.461  0.00  0.00           O
+ATOM    150  NE2AGLN A   1      55.612  41.298  70.980  0.19  0.00           N
+ATOM    151  NE2BGLN A   1      55.042  41.873  74.119  0.15  0.00           N
+ATOM    152  NE2CGLN A   1      59.068  43.968  71.015  0.09  0.00           N
+ATOM    153  NE2DGLN A   1      56.961  41.900  71.218  0.09  0.00           N
+ATOM    154  NE2EGLN A   1      54.966  42.263  70.087  0.08  0.00           N
+ATOM    155  NE2FGLN A   1      58.599  44.423  74.166  0.08  0.00           N
+ATOM    156  NE2GGLN A   1      58.217  42.897  71.195  0.04  0.00           N
+ATOM    157  NE2HGLN A   1      58.227  44.790  70.049  0.04  0.00           N
+ATOM    158  NE2IGLN A   1      55.338  45.458  68.502  0.03  0.00           N
+ATOM    159  NE2JGLN A   1      57.347  42.833  73.547  0.02  0.00           N
+ATOM    160  NE2KGLN A   1      56.751  41.478  72.829  0.02  0.00           N
+ATOM    161  NE2LGLN A   1      53.309  42.079  72.713  0.02  0.00           N
+ATOM    162  NE2MGLN A   1      56.484  43.348  70.123  0.02  0.00           N
+ATOM    163  NE2NGLN A   1      56.814  45.386  69.097  0.02  0.00           N
+ATOM    164  NE2OGLN A   1      54.782  44.168  69.004  0.01  0.00           N
+ATOM    165  NE2PGLN A   1      58.695  43.049  72.971  0.01  0.00           N
+ATOM    166  NE2QGLN A   1      57.080  42.721  73.611  0.01  0.00           N
+ATOM    167  NE2RGLN A   1      58.984  46.190  72.665  0.01  0.00           N
+ATOM    168  NE2SGLN A   1      53.721  41.978  70.939  0.01  0.00           N
+ATOM    169  NE2TGLN A   1      56.871  43.619  70.143  0.01  0.00           N
+ATOM    170  NE2UGLN A   1      53.751  45.062  69.063  0.01  0.00           N
+ATOM    171  NE2VGLN A   1      53.143  46.468  70.038  0.01  0.00           N
+ATOM    172  NE2WGLN A   1      55.520  47.862  70.154  0.00  0.00           N
+ATOM    173  NE2XGLN A   1      53.377  43.393  70.934  0.00  0.00           N
+ATOM    174  NE2YGLN A   1      56.268  43.698  69.839  0.00  0.00           N
+ATOM    175  NE2ZGLN A   1      56.255  42.873  74.422  0.00  0.00           N
+ATOM    176  NE2aGLN A   1      57.590  46.612  70.910  0.00  0.00           N
+ATOM    177  NE2bGLN A   1      57.470  44.304  74.577  0.00  0.00           N
+ATOM    178  NE2cGLN A   1      53.481  43.714  70.496  0.00  0.00           N
+ATOM    179  NE2dGLN A   1      59.014  45.579  71.235  0.00  0.00           N
+ATOM    180  NE2eGLN A   1      53.010  43.309  72.657  0.00  0.00           N
+ATOM    181  NE2fGLN A   1      56.415  47.000  69.324  0.00  0.00           N
+ATOM    182  NE2gGLN A   1      57.795  46.790  73.059  0.00  0.00           N
+ATOM    183  NE2hGLN A   1      56.406  47.688  71.636  0.00  0.00           N
+ATOM    184  NE2iGLN A   1      57.337  46.751  70.733  0.00  0.00           N
+ATOM    185  NE2jGLN A   1      52.799  45.603  71.313  0.00  0.00           N
+CONECT    3    5    2    4
+CONECT    2   37   10    9    6
+CONECT    2    7    8   23   14
+CONECT    2   11   13   12   18
+CONECT    2   20   17   21   19
+CONECT    2   22   16   15   34
+CONECT    2   35   27   30   36
+CONECT    2   24   26   28   29
+CONECT    2   33   25   32   31
+CONECT    2    1    3   39   41
+CONECT    2   40   38
+CONECT    6   42    2
+CONECT    7   43    2
+CONECT    8   44    2
+CONECT    9   45    2
+CONECT   10   46    2
+CONECT   11   47    2
+CONECT   12   48    2
+CONECT   13   49    2
+CONECT   14   50    2
+CONECT   15   51    2
+CONECT   16   52    2
+CONECT   17   53    2
+CONECT   18   54    2
+CONECT   19   55    2
+CONECT   20   56    2
+CONECT   21   57    2
+CONECT   22   58    2
+CONECT   23   59    2
+CONECT   24   60    2
+CONECT   25   61    2
+CONECT   26   62    2
+CONECT   27   63    2
+CONECT   28   64    2
+CONECT   29   65    2
+CONECT   30   66    2
+CONECT   31   67    2
+CONECT   32   68    2
+CONECT   33   69    2
+CONECT   34   70    2
+CONECT   35   71    2
+CONECT   36   72    2
+CONECT   37    2   73
+CONECT   38    2   74
+CONECT   39    2   75
+CONECT   40    2   76
+CONECT   41    2   77
+CONECT   78   42  114  150
+CONECT   79  151   43  115
+CONECT   80   44  152  116
+CONECT   81  117  153   45
+CONECT   82   46  118  154
+CONECT   83  155  119   47
+CONECT   84   48  120  156
+CONECT   85  157  121   49
+CONECT   86  122   50  158
+CONECT   87   51  159  123
+CONECT   88  124   52  160
+CONECT   89  125  161   53
+CONECT   90  126  162   54
+CONECT   91   55  163  127
+CONECT   92  164   56  128
+CONECT   93  165   57  129
+CONECT   94  166  130   58
+CONECT   95   59  167  131
+CONECT   96   60  132  168
+CONECT   97  133   61  169
+CONECT   98  134  170   62
+CONECT   99  135  171   63
+CONECT  100  172  136   64
+CONECT  101  173  137   65
+CONECT  102  138   66  174
+CONECT  103   67  175  139
+CONECT  104  140   68  176
+CONECT  105  177  141   69
+CONECT  106  178   70  142
+CONECT  107   71  179  143
+CONECT  108  180  144   72
+CONECT  109  145  181   73
+CONECT  110  146   74  182
+CONECT  111  183  147   75
+CONECT  112   76  184  148
+CONECT  113  149   77  185
+CONECT   42    6   78
+CONECT   43    7   79
+CONECT   44    8   80
+CONECT   45    9   81
+CONECT   46   10   82
+CONECT   47   11   83
+CONECT   48   84   12
+CONECT   49   13   85
+CONECT   50   14   86
+CONECT   51   87   15
+CONECT   52   88   16
+CONECT   53   89   17
+CONECT   54   18   90
+CONECT   55   91   19
+CONECT   56   20   92
+CONECT   57   21   93
+CONECT   58   94   22
+CONECT   59   23   95
+CONECT   60   24   96
+CONECT   61   97   25
+CONECT   62   26   98
+CONECT   63   27   99
+CONECT   64  100   28
+CONECT   65  101   29
+CONECT   66   30  102
+CONECT   67  103   31
+CONECT   68  104   32
+CONECT   69  105   33
+CONECT   70   34  106
+CONECT   71   35  107
+CONECT   72  108   36
+CONECT   73   37  109
+CONECT   74  110   38
+CONECT   75   39  111
+CONECT   76  112   40
+CONECT   77   41  113
+CONECT    1    2
+CONECT  150   78
+CONECT  151   79
+CONECT  152   80
+CONECT  153   81
+CONECT  154   82
+CONECT  155   83
+CONECT  156   84
+CONECT  157   85
+CONECT  158   86
+CONECT  159   87
+CONECT  160   88
+CONECT  161   89
+CONECT  162   90
+CONECT  163   91
+CONECT  164   92
+CONECT  165   93
+CONECT  166   94
+CONECT  167   95
+CONECT  168   96
+CONECT  169   97
+CONECT  170   98
+CONECT  171   99
+CONECT  172  100
+CONECT  173  101
+CONECT  174  102
+CONECT  175  103
+CONECT  176  104
+CONECT  177  105
+CONECT  178  106
+CONECT  179  107
+CONECT  180  108
+CONECT  181  109
+CONECT  182  110
+CONECT  183  111
+CONECT  184  112
+CONECT  185  113
+CONECT    4    3
+CONECT  114   78
+CONECT  115   79
+CONECT  116   80
+CONECT  117   81
+CONECT  118   82
+CONECT  119   83
+CONECT  120   84
+CONECT  121   85
+CONECT  122   86
+CONECT  123   87
+CONECT  124   88
+CONECT  125   89
+CONECT  126   90
+CONECT  127   91
+CONECT  128   92
+CONECT  129   93
+CONECT  130   94
+CONECT  131   95
+CONECT  132   96
+CONECT  133   97
+CONECT  134   98
+CONECT  135   99
+CONECT  136  100
+CONECT  137  101
+CONECT  138  102
+CONECT  139  103
+CONECT  140  104
+CONECT  141  105
+CONECT  142  106
+CONECT  143  107
+CONECT  144  108
+CONECT  145  109
+CONECT  146  110
+CONECT  147  111
+CONECT  148  112
+CONECT  149  113
+CONECT    5    3
+END

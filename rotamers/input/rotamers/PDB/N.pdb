@@ -1,0 +1,159 @@
+ATOM      1  N   ASN A   1      51.180  42.452  71.437  1.00  0.00           N
+ATOM      2  CA  ASN A   1      52.629  42.452  71.437  1.00  0.00           C
+ATOM      3  C   ASN A   1      53.152  43.882  71.437  1.00  0.00           C
+ATOM      4  O   ASN A   1      54.045  44.149  72.238  1.00  0.00           O
+ATOM      5  OXT ASN A   1      52.642  44.662  70.636  1.00  0.00           O
+ATOM      6  CB AASN A   1      53.181  41.751  70.204  0.28  0.00           C
+ATOM      7  CB BASN A   1      53.181  41.751  70.204  0.19  0.00           C
+ATOM      8  CB CASN A   1      53.181  41.751  70.204  0.10  0.00           C
+ATOM      9  CB DASN A   1      53.181  41.751  70.204  0.07  0.00           C
+ATOM     10  CB EASN A   1      53.181  41.751  70.204  0.07  0.00           C
+ATOM     11  CB FASN A   1      53.181  41.751  70.204  0.05  0.00           C
+ATOM     12  CB GASN A   1      53.181  41.751  70.204  0.04  0.00           C
+ATOM     13  CB HASN A   1      53.181  41.751  70.204  0.04  0.00           C
+ATOM     14  CB IASN A   1      53.181  41.751  70.204  0.04  0.00           C
+ATOM     15  CB JASN A   1      53.181  41.751  70.204  0.03  0.00           C
+ATOM     16  CB KASN A   1      53.181  41.751  70.204  0.03  0.00           C
+ATOM     17  CB LASN A   1      53.181  41.751  70.204  0.03  0.00           C
+ATOM     18  CB MASN A   1      53.181  41.751  70.204  0.01  0.00           C
+ATOM     19  CB NASN A   1      53.181  41.751  70.204  0.01  0.00           C
+ATOM     20  CB OASN A   1      53.181  41.751  70.204  0.00  0.00           C
+ATOM     21  CB PASN A   1      53.181  41.751  70.204  0.00  0.00           C
+ATOM     22  CB QASN A   1      53.181  41.751  70.204  0.00  0.00           C
+ATOM     23  CB RASN A   1      53.181  41.751  70.204  0.00  0.00           C
+ATOM     24  CG AASN A   1      52.959  40.248  70.282  0.28  0.00           C
+ATOM     25  CG BASN A   1      52.858  40.264  70.227  0.19  0.00           C
+ATOM     26  CG CASN A   1      54.684  41.543  70.319  0.10  0.00           C
+ATOM     27  CG DASN A   1      54.690  41.576  70.302  0.07  0.00           C
+ATOM     28  CG EASN A   1      52.790  42.491  68.932  0.07  0.00           C
+ATOM     29  CG FASN A   1      54.693  41.600  70.290  0.05  0.00           C
+ATOM     30  CG GASN A   1      54.697  41.635  70.272  0.04  0.00           C
+ATOM     31  CG HASN A   1      52.847  40.267  70.221  0.04  0.00           C
+ATOM     32  CG IASN A   1      52.697  42.426  68.928  0.04  0.00           C
+ATOM     33  CG JASN A   1      54.701  41.690  70.243  0.03  0.00           C
+ATOM     34  CG KASN A   1      52.837  40.269  70.215  0.03  0.00           C
+ATOM     35  CG LASN A   1      52.788  42.490  68.932  0.03  0.00           C
+ATOM     36  CG MASN A   1      53.163  40.239  70.378  0.01  0.00           C
+ATOM     37  CG NASN A   1      53.113  40.239  70.356  0.01  0.00           C
+ATOM     38  CG OASN A   1      54.634  41.346  70.408  0.00  0.00           C
+ATOM     39  CG PASN A   1      52.881  42.547  68.941  0.00  0.00           C
+ATOM     40  CG QASN A   1      52.516  42.269  68.936  0.00  0.00           C
+ATOM     41  CG RASN A   1      52.889  42.552  68.942  0.00  0.00           C
+ATOM     42  ND2AASN A   1      52.945  39.585  69.123  0.28  0.00           N
+ATOM     43  ND2BASN A   1      52.060  39.811  69.257  0.19  0.00           N
+ATOM     44  ND2CASN A   1      55.360  41.418  69.174  0.10  0.00           N
+ATOM     45  ND2DASN A   1      55.235  40.640  69.523  0.07  0.00           N
+ATOM     46  ND2EASN A   1      53.193  41.953  67.779  0.07  0.00           N
+ATOM     47  ND2FASN A   1      55.409  42.195  69.333  0.05  0.00           N
+ATOM     48  ND2GASN A   1      55.198  40.403  70.378  0.04  0.00           N
+ATOM     49  ND2HASN A   1      53.664  39.478  70.924  0.04  0.00           N
+ATOM     50  ND2IASN A   1      52.041  41.656  68.057  0.04  0.00           N
+ATOM     51  ND2JASN A   1      55.245  40.951  71.213  0.03  0.00           N
+ATOM     52  ND2KASN A   1      52.922  39.644  71.392  0.03  0.00           N
+ATOM     53  ND2LASN A   1      53.781  42.831  68.108  0.03  0.00           N
+ATOM     54  ND2MASN A   1      54.162  39.560  69.810  0.01  0.00           N
+ATOM     55  ND2NASN A   1      51.993  39.741  70.886  0.01  0.00           N
+ATOM     56  ND2OASN A   1      55.494  42.327  70.689  0.00  0.00           N
+ATOM     57  ND2PASN A   1      51.640  42.454  68.457  0.00  0.00           N
+ATOM     58  ND2QASN A   1      52.737  43.548  68.624  0.00  0.00           N
+ATOM     59  ND2RASN A   1      52.136  43.644  69.088  0.00  0.00           N
+ATOM     60  OD1AASN A   1      52.803  39.696  71.369  0.28  0.00           O
+ATOM     61  OD1BASN A   1      53.320  39.539  71.105  0.19  0.00           O
+ATOM     62  OD1CASN A   1      55.225  41.496  71.421  0.10  0.00           O
+ATOM     63  OD1DASN A   1      55.350  42.275  71.069  0.07  0.00           O
+ATOM     64  OD1EASN A   1      52.137  43.531  68.991  0.07  0.00           O
+ATOM     65  OD1FASN A   1      55.204  40.959  71.205  0.05  0.00           O
+ATOM     66  OD1GASN A   1      55.402  42.641  70.230  0.04  0.00           O
+ATOM     67  OD1HASN A   1      51.870  39.840  69.610  0.04  0.00           O
+ATOM     68  OD1IASN A   1      52.913  43.620  68.733  0.04  0.00           O
+ATOM     69  OD1JASN A   1      55.372  42.299  69.413  0.03  0.00           O
+ATOM     70  OD1KASN A   1      52.500  39.699  69.179  0.03  0.00           O
+ATOM     71  OD1LASN A   1      51.609  42.748  68.699  0.03  0.00           O
+ATOM     72  OD1MASN A   1      52.263  39.696  71.013  0.01  0.00           O
+ATOM     73  OD1NASN A   1      54.054  39.533  70.001  0.01  0.00           O
+ATOM     74  OD1OASN A   1      54.971  40.168  70.314  0.00  0.00           O
+ATOM     75  OD1PASN A   1      53.754  43.233  68.414  0.00  0.00           O
+ATOM     76  OD1QASN A   1      51.816  41.526  68.251  0.00  0.00           O
+ATOM     77  OD1RASN A   1      53.337  42.190  67.856  0.00  0.00           O
+CONECT    3    4    5    2
+CONECT    2   13    6   12    7
+CONECT    2   10    8    9   11
+CONECT    2    3    1   17   15
+CONECT    2   16   23   14   19
+CONECT    2   20   22   21   18
+CONECT    6   24    2
+CONECT    7   25    2
+CONECT    8   26    2
+CONECT    9   27    2
+CONECT   10   28    2
+CONECT   11   29    2
+CONECT   12   30    2
+CONECT   13   31    2
+CONECT   14    2   32
+CONECT   15    2   33
+CONECT   16    2   34
+CONECT   17    2   35
+CONECT   18    2   36
+CONECT   19    2   37
+CONECT   20    2   38
+CONECT   21    2   39
+CONECT   22    2   40
+CONECT   23    2   41
+CONECT   24    6   42   60
+CONECT   25    7   43   61
+CONECT   26   44   62    8
+CONECT   27   63   45    9
+CONECT   28   10   46   64
+CONECT   29   47   65   11
+CONECT   30   66   48   12
+CONECT   31   13   67   49
+CONECT   32   14   50   68
+CONECT   33   15   69   51
+CONECT   34   16   70   52
+CONECT   35   53   17   71
+CONECT   36   72   54   18
+CONECT   37   55   19   73
+CONECT   38   20   56   74
+CONECT   39   57   21   75
+CONECT   40   22   76   58
+CONECT   41   23   77   59
+CONECT    1    2
+CONECT   42   24
+CONECT   43   25
+CONECT   44   26
+CONECT   45   27
+CONECT   46   28
+CONECT   47   29
+CONECT   48   30
+CONECT   49   31
+CONECT   50   32
+CONECT   51   33
+CONECT   52   34
+CONECT   53   35
+CONECT   54   36
+CONECT   55   37
+CONECT   56   38
+CONECT   57   39
+CONECT   58   40
+CONECT   59   41
+CONECT    4    3
+CONECT   60   24
+CONECT   61   25
+CONECT   62   26
+CONECT   63   27
+CONECT   64   28
+CONECT   65   29
+CONECT   66   30
+CONECT   67   31
+CONECT   68   32
+CONECT   69   33
+CONECT   70   34
+CONECT   71   35
+CONECT   72   36
+CONECT   73   37
+CONECT   74   38
+CONECT   75   39
+CONECT   76   40
+CONECT   77   41
+CONECT    5    3
+END

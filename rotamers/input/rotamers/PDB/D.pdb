@@ -1,0 +1,85 @@
+ATOM      1  N   ASP A   1      50.842  42.361  71.062  1.00  0.00           N
+ATOM      2  CA  ASP A   1      52.291  42.361  71.062  1.00  0.00           C
+ATOM      3  C   ASP A   1      52.814  43.790  71.062  1.00  0.00           C
+ATOM      4  O   ASP A   1      53.707  44.057  71.863  1.00  0.00           O
+ATOM      5  OXT ASP A   1      52.305  44.571  70.261  1.00  0.00           O
+ATOM      6  CB AASP A   1      52.844  41.660  69.829  0.31  0.00           C
+ATOM      7  CB BASP A   1      52.844  41.660  69.829  0.19  0.00           C
+ATOM      8  CB CASP A   1      52.844  41.660  69.829  0.18  0.00           C
+ATOM      9  CB DASP A   1      52.844  41.660  69.829  0.11  0.00           C
+ATOM     10  CB EASP A   1      52.844  41.660  69.829  0.09  0.00           C
+ATOM     11  CB FASP A   1      52.844  41.660  69.829  0.05  0.00           C
+ATOM     12  CB GASP A   1      52.844  41.660  69.829  0.03  0.00           C
+ATOM     13  CB HASP A   1      52.844  41.660  69.829  0.02  0.00           C
+ATOM     14  CB IASP A   1      52.844  41.660  69.829  0.02  0.00           C
+ATOM     15  CG AASP A   1      52.640  40.153  69.965  0.31  0.00           C
+ATOM     16  CG BASP A   1      52.492  40.175  69.886  0.19  0.00           C
+ATOM     17  CG CASP A   1      54.361  41.537  69.950  0.18  0.00           C
+ATOM     18  CG DASP A   1      52.387  42.402  68.575  0.11  0.00           C
+ATOM     19  CG EASP A   1      54.364  41.566  69.935  0.09  0.00           C
+ATOM     20  CG FASP A   1      54.345  41.439  69.998  0.05  0.00           C
+ATOM     21  CG GASP A   1      52.385  42.400  68.574  0.03  0.00           C
+ATOM     22  CG HASP A   1      52.279  42.320  68.573  0.02  0.00           C
+ATOM     23  CG IASP A   1      52.573  40.160  69.930  0.02  0.00           C
+ATOM     24  OD1AASP A   1      52.310  39.716  71.100  0.31  0.00           O
+ATOM     25  OD1BASP A   1      52.754  39.562  70.956  0.19  0.00           O
+ATOM     26  OD1CASP A   1      54.897  42.020  70.983  0.18  0.00           O
+ATOM     27  OD1DASP A   1      51.686  43.436  68.740  0.11  0.00           O
+ATOM     28  OD1EASP A   1      54.835  40.960  70.934  0.09  0.00           O
+ATOM     29  OD1FASP A   1      55.053  42.454  70.237  0.05  0.00           O
+ATOM     30  OD1GASP A   1      51.145  42.563  68.423  0.03  0.00           O
+ATOM     31  OD1HASP A   1      52.432  43.565  68.458  0.02  0.00           O
+ATOM     32  OD1IASP A   1      51.369  39.790  69.915  0.02  0.00           O
+ATOM     33  OD2AASP A   1      52.815  39.452  68.932  0.31  0.00           O
+ATOM     34  OD2BASP A   1      51.966  39.667  68.860  0.19  0.00           O
+ATOM     35  OD2CASP A   1      54.969  40.962  69.008  0.18  0.00           O
+ATOM     36  OD2DASP A   1      52.744  41.928  67.463  0.11  0.00           O
+ATOM     37  OD2EASP A   1      55.040  42.101  69.015  0.09  0.00           O
+ATOM     38  OD2FASP A   1      54.770  40.258  69.887  0.05  0.00           O
+ATOM     39  OD2GASP A   1      53.279  42.797  67.780  0.03  0.00           O
+ATOM     40  OD2HASP A   1      51.700  41.573  67.740  0.02  0.00           O
+ATOM     41  OD2IASP A   1      53.573  39.400  70.022  0.02  0.00           O
+CONECT    3    2    5    4
+CONECT    2    3    1   13   11
+CONECT    2    8   12    6   10
+CONECT    2    7    9   14
+CONECT    6    2   15
+CONECT    7    2   16
+CONECT    8    2   17
+CONECT    9    2   18
+CONECT   10    2   19
+CONECT   11    2   20
+CONECT   12    2   21
+CONECT   13    2   22
+CONECT   14    2   23
+CONECT   15   24   33    6
+CONECT   16   34   25    7
+CONECT   17   26    8   35
+CONECT   18   36   27    9
+CONECT   19   28   37   10
+CONECT   20   38   11   29
+CONECT   21   12   30   39
+CONECT   22   13   31   40
+CONECT   23   32   14   41
+CONECT    1    2
+CONECT    4    3
+CONECT   24   15
+CONECT   25   16
+CONECT   26   17
+CONECT   27   18
+CONECT   28   19
+CONECT   29   20
+CONECT   30   21
+CONECT   31   22
+CONECT   32   23
+CONECT   33   15
+CONECT   34   16
+CONECT   35   17
+CONECT   36   18
+CONECT   37   19
+CONECT   38   20
+CONECT   39   21
+CONECT   40   22
+CONECT   41   23
+CONECT    5    3
+END

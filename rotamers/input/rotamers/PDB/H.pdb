@@ -1,0 +1,121 @@
+ATOM      1  N   HIS A   1      51.979  43.782  72.168  1.00  0.00           N
+ATOM      2  CA  HIS A   1      53.428  43.782  72.168  1.00  0.00           C
+ATOM      3  C   HIS A   1      53.951  45.212  72.168  1.00  0.00           C
+ATOM      4  O   HIS A   1      54.844  45.479  72.969  1.00  0.00           O
+ATOM      5  OXT HIS A   1      53.441  45.992  71.367  1.00  0.00           O
+ATOM      6  CB AHIS A   1      53.980  43.081  70.935  0.30  0.00           C
+ATOM      7  CB BHIS A   1      53.980  43.081  70.935  0.15  0.00           C
+ATOM      8  CB CHIS A   1      53.980  43.081  70.935  0.15  0.00           C
+ATOM      9  CB DHIS A   1      53.980  43.081  70.935  0.12  0.00           C
+ATOM     10  CB EHIS A   1      53.980  43.081  70.935  0.11  0.00           C
+ATOM     11  CB FHIS A   1      53.980  43.081  70.935  0.07  0.00           C
+ATOM     12  CB GHIS A   1      53.980  43.081  70.935  0.05  0.00           C
+ATOM     13  CB HHIS A   1      53.980  43.081  70.935  0.05  0.00           C
+ATOM     14  CB IHIS A   1      53.980  43.081  70.935  0.01  0.00           C
+ATOM     15  CG AHIS A   1      53.668  41.607  70.844  0.30  0.00           C
+ATOM     16  CG BHIS A   1      55.487  43.022  70.856  0.15  0.00           C
+ATOM     17  CG CHIS A   1      53.715  41.596  70.871  0.15  0.00           C
+ATOM     18  CG DHIS A   1      55.479  42.900  70.921  0.12  0.00           C
+ATOM     19  CG EHIS A   1      53.758  41.588  70.895  0.11  0.00           C
+ATOM     20  CG FHIS A   1      53.660  43.754  69.621  0.07  0.00           C
+ATOM     21  CG GHIS A   1      55.480  42.904  70.919  0.05  0.00           C
+ATOM     22  CG HHIS A   1      53.612  43.723  69.618  0.05  0.00           C
+ATOM     23  CG IHIS A   1      53.648  43.747  69.620  0.01  0.00           C
+ATOM     24  ND1AHIS A   1      54.293  40.670  71.659  0.30  0.00           N
+ATOM     25  ND1BHIS A   1      56.236  42.202  71.691  0.15  0.00           N
+ATOM     26  ND1CHIS A   1      52.533  41.081  70.352  0.15  0.00           N
+ATOM     27  ND1DHIS A   1      56.339  43.905  70.494  0.12  0.00           N
+ATOM     28  ND1EHIS A   1      53.991  40.839  69.748  0.11  0.00           N
+ATOM     29  ND1FHIS A   1      52.422  43.613  69.004  0.07  0.00           N
+ATOM     30  ND1GHIS A   1      56.158  42.467  69.787  0.05  0.00           N
+ATOM     31  ND1HHIS A   1      54.352  44.766  69.074  0.05  0.00           N
+ATOM     32  ND1IHIS A   1      54.296  43.408  68.439  0.01  0.00           N
+ATOM     33  CD2AHIS A   1      52.809  40.917  70.047  0.30  0.00           C
+ATOM     34  CD2BHIS A   1      56.372  43.671  70.052  0.15  0.00           C
+ATOM     35  CD2CHIS A   1      54.467  40.531  71.257  0.15  0.00           C
+ATOM     36  CD2DHIS A   1      56.260  41.845  71.278  0.12  0.00           C
+ATOM     37  CD2EHIS A   1      53.331  40.718  71.848  0.11  0.00           C
+ATOM     38  CD2FHIS A   1      54.404  44.562  68.820  0.07  0.00           C
+ATOM     39  CD2GHIS A   1      56.418  43.102  71.883  0.05  0.00           C
+ATOM     40  CD2HHIS A   1      52.596  43.472  68.749  0.05  0.00           C
+ATOM     41  CD2IHIS A   1      52.748  44.716  69.306  0.01  0.00           C
+ATOM     42  NE2AHIS A   1      52.934  39.607  70.392  0.30  0.00           N
+ATOM     43  NE2BHIS A   1      57.609  43.237  70.414  0.15  0.00           N
+ATOM     44  NE2CHIS A   1      53.738  39.421  70.967  0.15  0.00           N
+ATOM     45  NE2DHIS A   1      57.547  42.231  71.062  0.12  0.00           N
+ATOM     46  NE2EHIS A   1      53.316  39.489  71.266  0.11  0.00           N
+ATOM     47  NE2FHIS A   1      53.616  44.882  67.759  0.07  0.00           N
+ATOM     48  NE2GHIS A   1      57.617  42.787  71.322  0.05  0.00           N
+ATOM     49  NE2HHIS A   1      52.744  44.352  67.722  0.05  0.00           N
+ATOM     50  NE2IHIS A   1      52.872  44.936  67.970  0.01  0.00           N
+ATOM     51  CE1AHIS A   1      53.818  39.478  71.350  0.30  0.00           C
+ATOM     52  CE1BHIS A   1      57.511  42.365  71.387  0.15  0.00           C
+ATOM     53  CE1CHIS A   1      52.593  39.764  70.430  0.15  0.00           C
+ATOM     54  CE1DHIS A   1      57.576  43.455  70.597  0.12  0.00           C
+ATOM     55  CE1EHIS A   1      53.710  39.578  70.020  0.11  0.00           C
+ATOM     56  CE1FHIS A   1      52.443  44.311  67.884  0.07  0.00           C
+ATOM     57  CE1GHIS A   1      57.444  42.412  70.079  0.05  0.00           C
+ATOM     58  CE1HHIS A   1      53.791  45.112  67.931  0.05  0.00           C
+ATOM     59  CE1IHIS A   1      53.795  44.152  67.470  0.01  0.00           C
+CONECT    3    4    5    2
+CONECT    2    6   12   13    7
+CONECT    2   10   14    9   11
+CONECT    2    8    3    1
+CONECT    6   15    2
+CONECT    7   16    2
+CONECT    8   17    2
+CONECT    9   18    2
+CONECT   10   19    2
+CONECT   11   20    2
+CONECT   12   21    2
+CONECT   13   22    2
+CONECT   14   23    2
+CONECT   33   42   15
+CONECT   34   43   16
+CONECT   35   17   44
+CONECT   36   45   18
+CONECT   37   19   46
+CONECT   38   20   47
+CONECT   39   48   21
+CONECT   40   49   22
+CONECT   41   50   23
+CONECT   51   24   42
+CONECT   52   43   25
+CONECT   53   44   26
+CONECT   54   45   27
+CONECT   55   46   28
+CONECT   56   29   47
+CONECT   57   30   48
+CONECT   58   49   31
+CONECT   59   50   32
+CONECT   15    6   24   33
+CONECT   16   34    7   25
+CONECT   17   35   26    8
+CONECT   18   36    9   27
+CONECT   19   37   10   28
+CONECT   20   38   29   11
+CONECT   21   12   30   39
+CONECT   22   13   31   40
+CONECT   23   41   32   14
+CONECT    1    2
+CONECT   24   51   15
+CONECT   25   16   52
+CONECT   26   53   17
+CONECT   27   54   18
+CONECT   28   19   55
+CONECT   29   20   56
+CONECT   30   57   21
+CONECT   31   58   22
+CONECT   32   23   59
+CONECT   42   33   51
+CONECT   43   34   52
+CONECT   44   53   35
+CONECT   45   54   36
+CONECT   46   37   55
+CONECT   47   38   56
+CONECT   48   57   39
+CONECT   49   58   40
+CONECT   50   41   59
+CONECT    4    3
+CONECT    5    3
+END

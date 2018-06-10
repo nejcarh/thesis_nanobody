@@ -1,0 +1,30 @@
+ATOM      1  N   THR A   1      50.563  41.703  71.012  1.00  0.00           N
+ATOM      2  CA  THR A   1      52.012  41.703  71.012  1.00  0.00           C
+ATOM      3  C   THR A   1      52.536  43.132  71.012  1.00  0.00           C
+ATOM      4  O   THR A   1      53.429  43.399  71.813  1.00  0.00           O
+ATOM      5  OXT THR A   1      52.026  43.912  70.211  1.00  0.00           O
+ATOM      6  CB ATHR A   1      52.565  41.002  69.778  0.49  0.00           C
+ATOM      7  CB BTHR A   1      52.565  41.002  69.778  0.44  0.00           C
+ATOM      8  CB CTHR A   1      52.565  41.002  69.778  0.08  0.00           C
+ATOM      9  OG1ATHR A   1      52.110  41.677  68.603  0.49  0.00           O
+ATOM     10  OG1BTHR A   1      52.138  39.637  69.773  0.44  0.00           O
+ATOM     11  OG1CTHR A   1      53.988  40.907  69.881  0.08  0.00           O
+ATOM     12  CG2ATHR A   1      52.079  39.556  69.753  0.49  0.00           C
+ATOM     13  CG2BTHR A   1      54.089  41.057  69.802  0.44  0.00           C
+ATOM     14  CG2CTHR A   1      52.197  41.800  68.532  0.08  0.00           C
+CONECT    3    5    2    4
+CONECT    2    1    3    7    8
+CONECT    2    6
+CONECT    6    9    2   12
+CONECT    7    2   13   10
+CONECT    8   11    2   14
+CONECT   12    6
+CONECT   13    7
+CONECT   14    8
+CONECT    1    2
+CONECT    4    3
+CONECT    9    6
+CONECT   10    7
+CONECT   11    8
+CONECT    5    3
+END
